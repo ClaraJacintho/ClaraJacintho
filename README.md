@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Clara! I'm a Computer Science student, currently working as an intern at Datadog France. 
+I am Clara! I'm a Computer Science student :^)
 
