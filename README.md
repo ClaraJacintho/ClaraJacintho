@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Clara! I'm a Computer Science student from Brazil :^)
-
-I am currently in my final year of studies and I'm open to opportunities to work abroad! 
+I am Clara! I'm a Software Engineer from Brazil :^)
 
 Check out [my website](https://clarajacintho.dev/#/) or [my LinkedIn profile](https://www.linkedin.com/in/clarajacintho/) for more information about me 😎
