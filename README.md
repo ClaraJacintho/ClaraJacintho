@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Clara! I'm a Software Engineer from Brazil :^)
+Hello, I am Clara! I'm a Software Engineer at Datadog :^)
 
-Check out [my website](https://clarajacintho.dev/#/) or [my LinkedIn profile](https://www.linkedin.com/in/clarajacintho/) for more information about me 😎
+Check out [my LinkedIn profile](https://www.linkedin.com/in/clarajacintho/) 😎
