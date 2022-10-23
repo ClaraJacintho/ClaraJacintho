@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello, I am Clara! I'm a Software Engineer at Datadog :^)
 
-Check out [my LinkedIn profile](https://www.linkedin.com/in/clarajacintho/) 😎
+Check out [my LinkedIn profile](https://www.linkedin.com/in/clarajacintho/) or my personal website [clarajacintho.dev](https://clarajacintho.dev/) 😎
